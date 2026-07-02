@@ -280,8 +280,8 @@ docker ps --format "table {{.Names}}\t{{.Status}}" | grep -v healthy
 ## Author
 
 **Derik (Dereje Sichala)**
-Systems Administrator & Cloud Infrastructure Engineer
-10+ years enterprise infrastructure · Oracle Exadata · Nutanix HCI · OpenStack
+DevOps Engineer & Cloud Infrastructure Engineer
+5+ years enterprise infrastructure · Oracle Exadata · Nutanix HCI · OpenStack
 
 ---
 
