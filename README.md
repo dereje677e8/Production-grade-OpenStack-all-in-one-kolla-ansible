@@ -281,7 +281,7 @@ docker ps --format "table {{.Names}}\t{{.Status}}" | grep -v healthy
 
 **Derik (Dereje Sichala)**
 DevOps Engineer & Cloud Infrastructure Engineer
-5+ years enterprise infrastructure · Oracle Exadata · Nutanix HCI · OpenStack
+4+ years enterprise infrastructure · Oracle Exadata · Nutanix HCI · OpenStack
 
 ---
 
